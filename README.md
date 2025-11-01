@@ -8,6 +8,6 @@ A full -stack AI-powered resume builder app built using the MERN stack(MongoDB, 
 
 #Tech Stack
 -React (Vite)
-- Node.js/Express
+-Node.js/Express
 -Mongo DB
 -ImageKit API
